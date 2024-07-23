@@ -1,3 +1,5 @@
+Demo Website video link- https://www.linkedin.com/posts/arpan-das-500a85252_amazonclone-html-css-activity-7164685622090170368-x7i0?utm_source=share&utm_medium=member_desktop
+
 Amazon Clone Website
 Overview
 This project is a personal attempt to create a clone of the popular e-commerce website, Amazon. The goal is to replicate the core functionalities and user experience of Amazon, including product listings, shopping cart management, and checkout processes.
